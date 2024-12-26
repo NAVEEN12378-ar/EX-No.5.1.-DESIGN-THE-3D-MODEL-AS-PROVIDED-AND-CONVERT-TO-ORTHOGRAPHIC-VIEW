@@ -37,7 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT:
 
-[EDM EX-5 NAVEEN.pdf](https://github.com/user-attachments/files/18254844/EDM.EX-5.NAVEEN.pdf)
+![Screenshot 2024-12-27 003022](https://github.com/user-attachments/assets/cc488a23-b697-497c-867c-fef94d6775c9)
 
 
 ## RESULT:
